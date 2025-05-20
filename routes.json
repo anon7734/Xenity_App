@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "file": "Xenity_App.html"
+    }
+  ]
+} 
