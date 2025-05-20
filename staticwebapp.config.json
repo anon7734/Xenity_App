@@ -1,6 +1,12 @@
 {
-    "navigationFallback": {
-      "rewrite": "/Xenity_App.html"
+  "routes": [
+    {
+      "route": "/",
+      "serve": "/Xenity_App.html"
     }
+  ],
+  "navigationFallback": {
+    "rewrite": "/Xenity_App.html"
   }
+}
   
